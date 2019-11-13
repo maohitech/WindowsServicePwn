@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsServicePwn", "WindowsServicePwn\WindowsServicePwn.csproj", "{D021417C-BCE1-4BB0-8B99-092A101548D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D021417C-BCE1-4BB0-8B99-092A101548D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D021417C-BCE1-4BB0-8B99-092A101548D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D021417C-BCE1-4BB0-8B99-092A101548D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D021417C-BCE1-4BB0-8B99-092A101548D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA8A496E-C27F-4297-88FC-B52E3390AE34}
+	EndGlobalSection
+EndGlobal
